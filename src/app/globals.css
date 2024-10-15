@@ -25,3 +25,17 @@ body {
     text-wrap: balance;
   }
 }
+/* Desktop styles */
+@media (min-width: 1200px) {
+  /* styles for desktop screens */
+}
+
+/* Tablet styles */
+@media (min-width: 768px) and (max-width: 1199px) {
+  /* styles for tablet screens */
+}
+
+/* Mobile styles */
+@media (max-width: 767px) {
+  /* styles for mobile screens */
+}
